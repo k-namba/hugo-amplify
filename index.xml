@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Amplify HUGO Test on Amplify HUGO Test </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://amplify-hugo.std-adhocracy.net/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 05 May 2020 15:35:47 JST</updated>
+    
+    <item>
+      <title>Posts</title>
+      <link>http://amplify-hugo.std-adhocracy.net/post/</link>
+      <pubDate>Tue, 05 May 2020 15:35:47 JST</pubDate>
+      
+      <guid>http://amplify-hugo.std-adhocracy.net/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
